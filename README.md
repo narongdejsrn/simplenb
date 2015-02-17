@@ -1,4 +1,4 @@
-### Python Naive Bayes Classifier
+### simplenb - Python Naive Bayes Classifier
 Simple text classification with Naive Bayes
 implementation is based on [BionicSpirit](https://www.bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html) blog
 
