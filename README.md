@@ -11,7 +11,7 @@ You can use it for any basic text classfication such as
 ## Requirement
 ```
 - Python 2.7+ (other version will probably work too)
-- [Numpy](http://www.scipy.org/install.html)
+- Numpy (http://www.scipy.org/install.html)
 ```
 
 ## Installation
