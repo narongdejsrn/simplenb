@@ -10,7 +10,5 @@ setup(
   download_url = 'https://github.com/Zenyai/Python-Naive-Bayes-Classifier/tarball/master', # I'll explain this in a second
   keywords = ['naive bayes', 'classifier', 'simple', 'zenyai'], # arbitrary keywords
   classifiers = [],
-  install_requires=[
-       'numpy',
-  ],
+  install_requires=['scipy']
 )
